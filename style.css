@@ -36,7 +36,14 @@ button {
   width: 100vw;
 }
 
+.app__container {
+  height: calc(100vh - 55px);
+  display: flex;
+}
+
 /* STYLES */
+
+/* - HEADER - */
 
 .header {
   background-image: linear-gradient(to right, #18a0be, #622db9);
@@ -78,9 +85,6 @@ button {
   align-items: center;
 }
 
-.dd-toggle__icon {
-}
-
 .dd-toggle__img {
   width: 30px;
   height: 30px;
@@ -89,5 +93,23 @@ button {
   margin-right: 7px;
 }
 
-.dd-toggle__text {
+/* - SIDEBAR - */
+
+.sidebar {
+  background-color: #10171a;
+  width: 75px;
+}
+
+/* - PANEL - */
+
+.panel {
+  background-color: #2b363c;
+  width: 350px;
+}
+
+/* - MAIN - */
+
+.main {
+  background-color: #edf1f3;
+  flex: 1;
 }

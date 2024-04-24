@@ -2,7 +2,7 @@
 
 This is one of the two projects from the course by [ByteGrad](https://bytegrad.com/courses/professional-css) that I took:
 
-## Installing & Running the Project
+## Installing & Running the App
 
 After cloning the repository, cd into its directory, then run the vscode live-server extension-if using vscode-on the index.html file to see the result in the browser.
 

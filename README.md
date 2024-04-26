@@ -1,6 +1,6 @@
 # SocialEditor | HTML & CSS
 
-This is one of the two projects from the course by [ByteGrad](https://bytegrad.com/courses/professional-css) that I took:
+This is one of the two projects from the course by [Professional CSS](https://bytegrad.com/courses/professional-css)-by ByteGrad-that I took:
 
 ## Installing & Running the App
 
@@ -12,4 +12,4 @@ After cloning the repository, cd into its directory, then run the vscode live-se
 
 ## Credits
 
-Wesley from [ByteGrad](https://bytegrad.com/courses/professional-css)
+Wesley from [ByteGrad](https://bytegrad.com/)

@@ -1,6 +1,6 @@
 # SocialEditor | HTML & CSS
 
-This is one of the two projects from the course [Professional CSS](https://bytegrad.com/courses/professional-css) by [ByteGrad](https://bytegrad.com/):
+This is the first of the two projects from the course [Professional CSS](https://bytegrad.com/courses/professional-css) by [ByteGrad](https://bytegrad.com/):
 
 ## Installing & Running the App
 
